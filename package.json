@@ -1,6 +1,6 @@
 {
   "name": "console-log-hello-world",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Prints \"Hello World\" to the console when you first require it.",
   "main": "hello-world.js",
   "scripts": {
