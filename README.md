@@ -1,0 +1,1 @@
+Prints "Hello World" to the console when you first require it.

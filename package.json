@@ -1,0 +1,19 @@
+{
+  "name": "console-log-hello-world",
+  "version": "1.0.1",
+  "description": "Prints \"Hello World\" to the console when you first require it.",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "hello-world",
+    "helloworld",
+    "console",
+    "log"
+  ],
+  "author": "Chris Kwan <chriswkwan@gmail.com>",
+  "license": "ISC"
+}
